@@ -14,4 +14,4 @@
                             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-hERE WE CAN RECORD AUDIO IN PYTHON.
+HERE WE CAN RECORD AUDIO IN PYTHON.
